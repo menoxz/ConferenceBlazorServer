@@ -1,0 +1,2 @@
+# ConferenceBlazorServer
+conference management application
